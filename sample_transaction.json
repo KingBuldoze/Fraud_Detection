@@ -1,0 +1,9 @@
+{
+  "transaction_id": "TX00123456",
+  "customer_id": 42,
+  "terminal_id": 15,
+  "amount": 125.50,
+  "timestamp": "2024-01-15T14:30:00",
+  "merchant_category": "electronics",
+  "distance_from_home": 5.2
+}
