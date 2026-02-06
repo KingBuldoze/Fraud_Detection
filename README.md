@@ -1,4 +1,4 @@
-# Production-Grade Fraud Detection System
+# Production-Grade Fraud Detection System for finance
 
 ## Overview
 A real-world, enterprise-ready fraud detection system designed for financial institutions. This system provides real-time transaction scoring with explainable AI, handling extreme class imbalance and regulatory compliance requirements.
