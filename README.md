@@ -6,7 +6,7 @@ A real-world, enterprise-ready fraud detection system designed for financial ins
 ## Business Problem
 Financial fraud costs the industry billions annually. This system detects fraudulent transactions in real-time by analyzing behavioral patterns, temporal anomalies, and statistical deviations while maintaining explainability for regulatory compliance.
 
-## Architecture
+## Architecture of this system
 
 ```
 fraud_detection/
